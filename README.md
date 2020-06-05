@@ -13,7 +13,7 @@ For use with students I would set it up for merges to master instead of each pus
 ## todo 
 1. teacher instructions for using it 
 3. replace this (README.md) page with student info  or an index.html ? will it supercede ?
-4. limit what is coppied to github pages 
+4. limit what is coppied to github pages  do I need node_modules ?? test in .gitignore
 2. fix the linter I am using, it's too strict
 2. try github actions instead 
 3. deploy to korra instead
