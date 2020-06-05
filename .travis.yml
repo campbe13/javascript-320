@@ -1,10 +1,19 @@
+# deploy to github pages for my userid
+# don't really need a build so decided to go for linting??? 
+
+# checked with https://config.travis-ci.com/explore
+
+# to campbe13.github.io
+
 language: node_js
 node_js:
   - 14
+os: linux
+dist: bionic
 deploy:
   provider: pages
-  skip_cleanup: true
-  github_token: $SECRET_TOKEN  # Set in the settings page of your repository, as a secure variable
+  token: $SECRET_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
   on:
     branch: master
+scripts: lint.sh
