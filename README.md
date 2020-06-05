@@ -16,6 +16,8 @@ For use with students I would set it up for merges to master instead of each pus
 4. limit what is copied to github pages  do I need node_modules ?? test in .gitignore
 2. fix the linter I am using, it's too strict
 3. figure out the build vs pull deployment trigger
+   1.  Build pushed branches off & build pushed pull requests on; pull request deploys master (why useful?)
+   2.  Build pushed branches off & build pushed pull requests on;  tbd
 2. try github actions instead 
 3. deploy to korra instead
 4. try with gitlab ci 
