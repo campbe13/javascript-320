@@ -1,6 +1,6 @@
 # Sample Repo for Javascript
 
-I am using this as a [public test repo](https://github.com/campbe13/javascript-320/)  for using [Travis CI] (https://travis-ci.com/github/campbe13/javascript-320/) to  deploy to [github pages](https://campbe13.github.io/javascript-320)
+I am using this as a [public test repo](https://github.com/campbe13/javascript-320/)  for using [Travis CI](https://travis-ci.com/github/campbe13/javascript-320/) to  deploy to [github pages](https://campbe13.github.io/javascript-320)
 
 The idea is for teachers to share this repo for course content, sample code, markdown instructions maybe, each push to the repo will deploy sample html/css/js for use by students.   
 
@@ -12,9 +12,12 @@ For use with students I would set it up for merges to master instead of each pus
 
 ## todo 
 1. teacher instructions for using it 
-3. replace this (README.md) page with student info  or an index.html ? will it supercede ?
-4. limit what is coppied to github pages 
+3. maybe replace this (README.md) page with student info  or an index.html ? will it supercede ?
+4. limit what is copied to github pages  do I need node_modules ?? test in .gitignore
 2. fix the linter I am using, it's too strict
+3. figure out the build vs pull deployment trigger
+   1.  Build pushed branches off & build pushed pull requests on; pull request deploys master (why useful?)
+   2.  Build pushed branches off & build pushed pull requests on; tbd
 2. try github actions instead 
 3. deploy to korra instead
 4. try with gitlab ci 
