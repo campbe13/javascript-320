@@ -1,6 +1,6 @@
 # Sample Repo for Javascript
 
-I am using this as a test repo for using Travis CI deploy to [github pages](https://campbe13.github.io/javascript-320)
+I am using this as a [public test repo](https://github.com/campbe13/javascript-320/)  for using Travis CI deploy to [github pages](https://campbe13.github.io/javascript-320)
 
 The idea is for teachers to share this repo for course content, sample code, markdown instructions maybe, each push to the repo will deploy sample html/css/js for use by students. 
 
@@ -9,13 +9,12 @@ The idea is for teachers to share this repo for course content, sample code, mar
 
 
 ##todo 
-1. instructions for using it 
+1. teacher instructions for using it 
+3. replace this with student info 
 2. fix the linter I am using, it's too strict
 2. try github actions instead 
 3. deploy to korra instead
 4. try with gitlab ci 
-
-
 
 -----
 
