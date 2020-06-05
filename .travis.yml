@@ -5,7 +5,6 @@
 
 # to campbe13.github.io
 
-# linter not working properly so test without the script
 language: node_js
 node_js:
   - 13
@@ -17,5 +16,5 @@ deploy:
   keep_history: true
   on:
     branch: master
-#script: ./lint.sh
+script: ./lint.sh
 
