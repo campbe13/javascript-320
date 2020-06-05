@@ -7,8 +7,8 @@
 # 2020-06-05
 
 # using builtin version but need to install ???
-npm install htmllint -g
-#npm install -g htmllint-cli
+#npm install htmllint -g
+npm install -g htmllint-cli
 
 htmllint init
 # cannont get around class and spacing config issue
