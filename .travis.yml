@@ -7,7 +7,7 @@
 
 language: node_js
 node_js:
-  - 14
+  - 13
 os: linux
 dist: bionic
 deploy:
