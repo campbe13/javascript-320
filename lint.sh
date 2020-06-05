@@ -5,8 +5,11 @@
 
 # PMCampbell
 # 2020-06-05
+
+# using builtin version
 #npm install htmllint
-npm install -g htmllint-cli
+#npm install -g htmllint-cli
+
 htmllint init
 # cannont get around class and spacing config issue
 #htmllint `find ./ -name "*.html"|grep -v node_modules`
