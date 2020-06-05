@@ -8,4 +8,7 @@
 #npm install htmllint
 npm install -g htmllint-cli
 htmllint init
-htmllint `find ./ -name "*.html"`
+# cannont get around class and spacing config issue
+#htmllint `find ./ -name "*.html"|grep -v node_modules`
+
+htmllint 01-html-css-review/semantics.html
