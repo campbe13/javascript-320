@@ -6,8 +6,8 @@
 # PMCampbell
 # 2020-06-05
 
-# using builtin version
-#npm install htmllint
+# using builtin version but need to install ???
+npm install htmllint
 #npm install -g htmllint-cli
 
 htmllint init
