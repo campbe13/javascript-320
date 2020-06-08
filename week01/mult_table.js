@@ -3,7 +3,7 @@
     if(rows == "" || rows == null) rows = 10;
     if(cols== "" || cols== null) cols = 10;
     if(isNaN(cols) || isNan(rows) 
-          document.write("<h3>rows or columns are not numeric"</h3>")
+          document.write("<h3>rows or columns are not numeric</h3>")
     createTable(rows, cols);
     function createTable(rows, cols)
     {
