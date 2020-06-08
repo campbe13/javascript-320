@@ -1,9 +1,9 @@
     var rows = prompt("How many rows for your multiplication table?");
     var cols = prompt("How many columns for your multiplication table?");
-    if(rows == "" || rows == null)
-   		 rows = 10;
-    if(cols== "" || cols== null)
-   		 cols = 10;
+    if(rows == "" || rows == null) rows = 10;
+    if(cols== "" || cols== null) cols = 10;
+    if(isNaN(cols) || isNan(rows) 
+          document.write("<h3>rows or columns are not numeric"</h3>")
     createTable(rows, cols);
     function createTable(rows, cols)
     {
@@ -22,3 +22,4 @@
     }
     output = output + "</table>";
     document.write(output);
+    }
