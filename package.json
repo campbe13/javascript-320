@@ -1,0 +1,26 @@
+{
+  "name": "javascript-320",
+  "version": "1.0.0",
+  "description": "I am using this as a [public test repo](https://github.com/campbe13/javascript-320/)  for using [Travis CI](https://travis-ci.com/github/campbe13/javascript-320/) to  deploy to [github pages](https://campbe13.github.io/javascript-320)",
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0",
+    "htmllint": "^0.8.0",
+    "html-lint": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campbe13/javascript-320.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/campbe13/javascript-320/issues"
+  },
+  "homepage": "https://github.com/campbe13/javascript-320#readme"
+}
