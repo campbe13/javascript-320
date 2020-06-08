@@ -22,4 +22,3 @@
     }
     output = output + "</table>";
     document.write(output);
-    }
