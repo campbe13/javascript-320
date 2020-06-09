@@ -7,8 +7,8 @@ The idea is for teachers to share this repo for course content, sample code, mar
 For use with students I would set it up for merges to master instead of each push? 
 
 ## content
-* [html css beginner js review](week01)
 
+* [html css beginner js review](week01)
 * [testing travis](tricia.html)
 
 ## todo 
@@ -21,7 +21,7 @@ For use with students I would set it up for merges to master instead of each pus
 4. try with gitlab ci 
 
 -----
-
+See [How to setup Travis CI for github pages](https://docs.google.com/document/d/1Yrijs0V0053suuavLWUzIvQsyPURtc33o6zOMsBAOrE/edit?usp=sharing)
 See [google doc for setup process, errors and all ](https://docs.google.com/document/d/1zJ7LxYUMihiR9Cp1E7OVk645Jjh8m5BM7eaGxwXS8ZQ/edit?usp=sharing)
 
 
