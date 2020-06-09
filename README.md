@@ -9,6 +9,7 @@ For use with students I would set it up for merges to master instead of each pus
 ## content
 * [html css beginner js review](week01)
 
+* [testing travis](tricia.html)
 
 ## todo 
 1. teacher instructions for using it 
